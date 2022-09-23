@@ -51,7 +51,7 @@ spec:
     protocol: TCP
     targetPort: 80
   selector:
-    app: anuragsvc
+    app: anurag-app
   type: NodePort
 status:
   loadBalancer: {}
