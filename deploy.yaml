@@ -1,4 +1,4 @@
----
+
 apiVersion: v1
 kind: Namespace
 metadata:
@@ -55,4 +55,3 @@ spec:
   type: NodePort
 status:
   loadBalancer: {}
-  ---
