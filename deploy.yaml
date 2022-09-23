@@ -54,4 +54,5 @@ spec:
     app: anurag-app
   type: NodePort
 status:
+
   loadBalancer: {}
